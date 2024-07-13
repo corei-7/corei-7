@@ -9,6 +9,6 @@ I learn
 My hobbies are  
  - Minecraft  
  - Youtube、Discord
- - Kinetic typography
+ - Making videos with AviUtl
 ***
 プログラミング初心者です。よろしくお願いします。
