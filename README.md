@@ -8,6 +8,7 @@ I learn
     
 My hobbies are  
  - Minecraft  
- - Youtube、Discord  
+ - Youtube、Discord
+ - Kinetic typography
 ***
 プログラミング初心者です。よろしくお願いします。
